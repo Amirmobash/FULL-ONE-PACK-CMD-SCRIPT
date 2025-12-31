@@ -173,4 +173,4 @@ These should **never** be in a Git repository:
 
 ## License
 
-Use freely. No warranty. Intended for professional and industrial workflows.
+Use freely. No warranty. Intended for professional and industrial workflows.Amir Mobasheraghdam

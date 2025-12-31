@@ -1,5 +1,3 @@
-# FULL-ONE-PACK-CMD-SCRIPT
-✅ FULL ONE-PACK CMD SCRIPT (COPY &amp; RUN)
 @echo off
 REM ============================================
 REM ToolOrganizer - Full Cleanup, Update & Push

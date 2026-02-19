@@ -1,0 +1,127 @@
+# .gitignore for Workshop C# Windows Forms project
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# Roslyn cache
+*.ide/
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Visual Studio build output files
+*.dll
+*.exe
+*.pdb
+*.vsix
+*.vspx
+*.cache
+*.nupkg
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Test results
+TestResults/
+
+# Package files
+*.crx
+*.o
+*.tmp
+
+# Publish Web Output
+*.Publish.xml
+*.pubxml
+
+# NuGet Packages
+*.nupkg
+packages/
+!packages/repositories.config
+
+# Windows Azure Build Output
+csx/
+*.build.csdef
+
+# Windows Store app package directory
+AppPackages/
+
+# Others
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+node_modules/
+
+# Visual Studio C++ files
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Backup & report files
+*.bak
+*.report
+*.log
+*.old
+*.orig
+
+# SQL Server files
+App_Data/*.mdf
+App_Data/*.ldf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# =========================
+# Windows specific ignores
+# =========================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =========================
+# Project specific
+# =========================
+# Settings file with user-specific path (SharedFolder) can be ignored
+Properties/Settings.Designer.cs
+Properties/Settings.settings
+app.config
+*.config.user
+*.user
+
+# Compiled resources
+*.resources
+*.resx
+*.resx.orig
+*.resx.user
+*.resx.bak
+
+# =========================
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/

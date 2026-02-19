@@ -1,8 +1,8 @@
 {
-  "DataDirectory": "../../../../SharedData",
-  "ReportsDirectory": "../../../../SharedData/Reports",
-  "ImagesDirectory": "../../../../SharedData/Images",
-  "LogsDirectory": "../../../../SharedData/Logs",
+  "DataDirectory": "D:/Teamtafel/SharedData",
+  "ReportsDirectory": "D:/Teamtafel/Reports",
+  "ImagesDirectory": "D:/Teamtafel/Images",
+  "LogsDirectory": "D:/Teamtafel/Logs",
   "SyncEnabled": true,
   "SyncIntervalSeconds": 5
 }

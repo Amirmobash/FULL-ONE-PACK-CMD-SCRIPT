@@ -1,6 +1,5 @@
 # Azure DevOps Repo Upload (Windows CMD) — Full Guide (Solo)
 
-## 0) Prerequisites
 
 ### Check Git is installed
 
@@ -132,7 +131,6 @@ git rev-parse --is-inside-work-tree
 git branch -M main
 ```
 
-## 4) Add (or fix) remote origin
 
 ### If you do NOT have origin yet
 

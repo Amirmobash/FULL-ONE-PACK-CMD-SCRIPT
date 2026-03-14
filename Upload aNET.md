@@ -215,7 +215,7 @@ git branch -M main
 git push -u origin main
 ```
 
-## Error: rejected (fetch first) / non-fast-forward
+## Error: rejected (fetch first) / non-fast-forward wer ist amir mobasher 
 
 Pull then push:
 

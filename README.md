@@ -1,4 +1,10 @@
 # FULL ONE PACK CMD SCRIPT
+
+
+<p align="center"><img src="docs/images/windows-cmd-dotnet-clean-build-git-workflow.svg" alt="Windows command line .NET clean build and Git workflow" width="960" /></p>
+
+<sub>Illustrative project schematic; not an actual CAD export, hardware photograph, or independently tested result.</sub>
+
 ### Windows – Full Control, Clean, Update NuGet, Build & Push
 
 **Author:** Amir Mobasheraghdam
